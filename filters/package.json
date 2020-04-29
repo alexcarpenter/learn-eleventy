@@ -1,0 +1,11 @@
+{
+  "name": "eleventy-filters",
+  "scripts": {
+    "dev": "npx eleventy --serve --watch",
+    "build": "npx eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "luxon": "^1.23.0"
+  }
+}
