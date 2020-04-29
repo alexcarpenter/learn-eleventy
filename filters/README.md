@@ -1,4 +1,6 @@
-# Eleventy fitlers
+# Eleventy filters
+
+> Watch the tutorial on [YouTube](https://www.youtube.com/watch?v=wV77GwOY22w).
 
 ## Installation
 

@@ -1,9 +1,7 @@
 # Learn Eleventy
 
-> Source files for my collection of Eleventy video tutorials
-
-[alexcarpenter.me/learn/eleventy](https://alexcarpenter.me/learn/eleventy)
+> Source files for my collection of [Eleventy video tutorials](https://alexcarpenter.me/learn/eleventy)
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT). © 2018 Alex Carpenter
+[MIT](https://opensource.org/licenses/MIT). © 2020 Alex Carpenter
